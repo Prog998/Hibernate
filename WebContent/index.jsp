@@ -4,11 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Biblioteca</title>
+<title>Library</title>
 </head>
 <body>
 	<ul>
-	    <li><a href="altas.jsp">Altas</a></li>
+	
+	    <li><a href="uppers.jsp">Uppers</a></li>
 	    
 	</ul>
 </body>
